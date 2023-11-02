@@ -3,4 +3,4 @@
 echo "Nom du fichier:"
 read fichier
 
-touch "$fichier"
+touch $fichier
